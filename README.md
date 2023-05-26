@@ -1,4 +1,4 @@
-# W7-Kaggle_competition
+# lab-kaggle-competition
 
 ![portada](https://github.com/Ironhack-Data-Madrid-Enero-2021/W7-Kaggle_competition/blob/main/images/PORTADA.jpg)
 
